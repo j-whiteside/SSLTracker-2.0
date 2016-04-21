@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SSLtracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_update">UpdateActivity</string>
+    <string name="APP_NAME">SSL TRACKER</string>
+    <string-array name="WebTrackerOptions">
+        <item>SSL</item>
+        <item>HOST</item>
+        <item>DOMAIN</item>
+    </string-array>
+</resources>
